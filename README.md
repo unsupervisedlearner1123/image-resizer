@@ -1,1 +1,1 @@
-# weblog-analyzer
+# resize images
